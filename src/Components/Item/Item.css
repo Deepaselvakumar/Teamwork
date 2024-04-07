@@ -24,3 +24,7 @@
     transform: scale(1.05);
     transition: 0.6s;
 }
+.itemimg{
+    height: 400px;
+    width: 350px;
+}
