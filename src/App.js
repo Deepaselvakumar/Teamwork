@@ -5,6 +5,11 @@ import Shopcat from "./pages/Shopcat";
 import Product from "./pages/Product";
 import Cart from "./pages/Cart";
 import Login from "./pages/Login";
+import Footer from './Components/Footer/Footer'; 
+import men_banner from './Components/Assets/download.jpg'
+import women_banner from './Components/Assets/download.jpg'
+import kid_banner from './Components/Assets/download.jpg'
+
 function App() {
   return (
     <div className="App">
@@ -14,14 +19,15 @@ function App() {
 
       <Routes>
         <Route path='/' element={<Shop />}/>
-        <Route path ="/womens" element={<Shopcat catgeory="women"/>}/>
-        <Route path='/mens' element={<Shopcat  catgeory="men"/>}/>
-        <Route path='/kids' element={<Shopcat catgeory="kid"/>}/>
+        <Route path ="/womens" element={<Shopcat banner={men_banner} catgeory="women"/>}/>
+        <Route path='/mens' element={<Shopcat banner={women_banner} catgeory="men"/>}/>
+        <Route path='/kids' element={<Shopcat banner={kid_banner} catgeory="kid"/>}/>
         <Route path='/Product'element={<Product />}/>
         <Route path=":Productid" element={<Product/>}/>
         <Route path="/cart" element={<Cart />}/>
         <Route path="/login" element={<Login />}/>
       </Routes>
+      <Footer />
       </BrowserRouter>
     </div>
   );
