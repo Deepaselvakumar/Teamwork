@@ -11,7 +11,7 @@ function Hero() {
       <div>
       <div className='hero-hand-icon'>
         <p>New</p>
-        <img src={Hiiimg} style={{ width: '200px' }} />
+        <img src={Hiiimg} style={{ width: '100px' }} />
       </div>
       <p>Collections</p>
       <p>for everyone</p>
@@ -22,7 +22,7 @@ function Hero() {
       </div>
 </div>
       <div className="hero-right"> 
-        <img src={shopgirl}style={{ width: '600px' }} />
+        <img src={shopgirl}style={{ width: '400px',height:'600px' }} />
        </div>
     </div>
     

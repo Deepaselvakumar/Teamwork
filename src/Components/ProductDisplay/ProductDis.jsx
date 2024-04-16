@@ -1,7 +1,7 @@
 import React from 'react'
 import './ProductDis.css'
-import star_icon from '../Assets/download.jpg';
-import star_dull_icon from '../Assets/download.jpg';
+import star_icon from '../Assets/star_icon.png';
+import star_dull_icon from '../Assets/star_dull_icon.png';
 
 const ProductDis = (props) => {
     const {product} = props;

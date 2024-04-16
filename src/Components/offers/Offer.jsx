@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Offer.css"
-import exclusive from "../Assets/shopaholic-woman-with-colorful-bags-white_79295-19903.jpg"
+import exclusive from "../Assets/shopaholic-woman-with-colorful-bags-white_79295-19903.png"
 
 export const Offer = () => {
   return (

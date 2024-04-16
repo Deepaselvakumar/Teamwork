@@ -5,15 +5,19 @@
 
 }
 .shopimg{
-    width: 50px;
-    height: 50px;
+    width: 90px;
+    height: 90px;
+}
+.cartimg{
+    width: 60px;
+    height: 60px;
 }
 .nav-logo{
     display: flex;
     align-items: center;
     gap: 10px;
 }
-.nav-log p{
+.nav-logo p{
     color: black;
     font-size: 38px;
     font-weight: 600;
