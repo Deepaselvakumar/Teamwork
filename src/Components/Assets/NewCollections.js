@@ -1,25 +1,31 @@
-import img1 from "./beautiful-woman-is-shopping-mall-using-credit-card-woman-wearing-glasses-holding-shopping-bag-fashion-department-store_41078-207.jpg"
-import img2 from "./young-beautiful-girl-bright-dress-holding-different-shopping-bags-isolated-white-background_224078-4184.jpg"
+import img1 from "./product1.jpg"
+import img2 from "./product5.jpg"
+import img3 from "./product4.jpg"
+import img4 from "./product12.jpg"
+import img5 from "./product8.jpg"
+import img6 from "./product3.jpg"
+import img7 from "./product2.jpg"
+import img8 from "./product9.jpg"
 
-let data_product=[
+let newcollections=[
     {
         id:1,
-        img:"https://png.pngitem.com/pimgs/s/50-504939_custom-bags-from-quality-packaging-supply-girl-with.png",
-        name:"Striped Flutter",
+        img:img1,
+        name:"Amazing collections",
         new_price:350.00,
         old_price:80.50,
     },
     {
         id:2,
-        name:"Beautiful Shops",
-        img:img1,
+        name:"Amazing collections",
+        img:img2,
         new_price:500.00,
         old_price:800.50,
         
     },
     {
         id:3,
-        img:img2,
+        img:img3,
         name:"Amazing collections",
         new_price:600.00,
         old_price:800.50,
@@ -27,43 +33,44 @@ let data_product=[
     },
     {
         id:4,
-        img:img2,
+        img:img4,
         name:"Amazing collections",
-        new_price:600.00,
-        old_price:800.50,
+        new_price:300.00,
+        old_price:700.50,
         
     },
     {
         id:5,
-        img:img2,
+        img:img5,
         name:"Amazing collections",
-        new_price:600.00,
-        old_price:800.50,
+        new_price:500.00,
+        old_price:1000,
         
     },
     {
         id:6,
-        img:img2,
+        img:img6,
         name:"Amazing collections",
-        new_price:600.00,
-        old_price:800.50,
+        new_price:900.00,
+        old_price:1500,
         
     },
     {
         id:7,
-        img:img2,
+        img:img7,
         name:"Amazing collections",
-        new_price:600.00,
+        new_price:460.00,
         old_price:800.50,
         
     },
     {
         id:8,
-        img:img2,
+        img:img8,
         name:"Amazing collections",
-        new_price:600.00,
-        old_price:800.50,
+        new_price:700.00,
+        old_price:1400,
         
     },
+
 ]
-export default data_product
+export default newcollections
