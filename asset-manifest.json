@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Deepaselvakumar/Teamwork.git/static/css/main.a2725dd0.css",
-    "main.js": "/Deepaselvakumar/Teamwork.git/static/js/main.3249f92a.js",
-    "static/js/453.ae2a60de.chunk.js": "/Deepaselvakumar/Teamwork.git/static/js/453.ae2a60de.chunk.js",
-    "static/media/p21.png": "/Deepaselvakumar/Teamwork.git/static/media/p21.4daec7495d4a602a4976.png",
-    "static/media/product4.jpg": "/Deepaselvakumar/Teamwork.git/static/media/product4.4daec7495d4a602a4976.jpg",
-    "static/media/product3.jpg": "/Deepaselvakumar/Teamwork.git/static/media/product3.0c661dfdf75b73004320.jpg",
-    "static/media/product8.jpg": "/Deepaselvakumar/Teamwork.git/static/media/product8.ef676f02691dbd4e288d.jpg",
-    "static/media/product2.jpg": "/Deepaselvakumar/Teamwork.git/static/media/product2.5cafa416f970dfff7301.jpg",
-    "static/media/product1.jpg": "/Deepaselvakumar/Teamwork.git/static/media/product1.7bf61654c6de5b31a3ee.jpg",
-    "static/media/p20.png": "/Deepaselvakumar/Teamwork.git/static/media/p20.a5363c687c629405fceb.png",
-    "static/media/product12.jpg": "/Deepaselvakumar/Teamwork.git/static/media/product12.d17c5a69bdbeae55b645.jpg",
-    "static/media/product9.jpg": "/Deepaselvakumar/Teamwork.git/static/media/product9.d07d21448d6644e13f4b.jpg",
-    "static/media/young-beautiful-girl-bright-dress-holding-different-shopping-bags-isolated-white-background_224078-4184.jpg": "/Deepaselvakumar/Teamwork.git/static/media/young-beautiful-girl-bright-dress-holding-different-shopping-bags-isolated-white-background_224078-4184.4752e8e3b9c71ff58b9e.jpg",
-    "static/media/product5.jpg": "/Deepaselvakumar/Teamwork.git/static/media/product5.6c34a1bf9836fb7337ce.jpg",
-    "static/media/shopaholic-woman-with-colorful-bags-white_79295-19903.png": "/Deepaselvakumar/Teamwork.git/static/media/shopaholic-woman-with-colorful-bags-white_79295-19903.2f2afbd5270f61837c6c.png",
-    "static/media/istockphoto-1303509809-612x612.jpg": "/Deepaselvakumar/Teamwork.git/static/media/istockphoto-1303509809-612x612.1c5216956816cd26b754.jpg",
-    "index.html": "/Deepaselvakumar/Teamwork.git/index.html",
-    "main.a2725dd0.css.map": "/Deepaselvakumar/Teamwork.git/static/css/main.a2725dd0.css.map",
-    "main.3249f92a.js.map": "/Deepaselvakumar/Teamwork.git/static/js/main.3249f92a.js.map",
-    "453.ae2a60de.chunk.js.map": "/Deepaselvakumar/Teamwork.git/static/js/453.ae2a60de.chunk.js.map"
+    "main.css": "/Teamwork/static/css/main.a2725dd0.css",
+    "main.js": "/Teamwork/static/js/main.9c9cff75.js",
+    "static/js/453.ae2a60de.chunk.js": "/Teamwork/static/js/453.ae2a60de.chunk.js",
+    "static/media/p21.png": "/Teamwork/static/media/p21.4daec7495d4a602a4976.png",
+    "static/media/product4.jpg": "/Teamwork/static/media/product4.4daec7495d4a602a4976.jpg",
+    "static/media/product3.jpg": "/Teamwork/static/media/product3.0c661dfdf75b73004320.jpg",
+    "static/media/product8.jpg": "/Teamwork/static/media/product8.ef676f02691dbd4e288d.jpg",
+    "static/media/product2.jpg": "/Teamwork/static/media/product2.5cafa416f970dfff7301.jpg",
+    "static/media/product1.jpg": "/Teamwork/static/media/product1.7bf61654c6de5b31a3ee.jpg",
+    "static/media/p20.png": "/Teamwork/static/media/p20.a5363c687c629405fceb.png",
+    "static/media/product12.jpg": "/Teamwork/static/media/product12.d17c5a69bdbeae55b645.jpg",
+    "static/media/product9.jpg": "/Teamwork/static/media/product9.d07d21448d6644e13f4b.jpg",
+    "static/media/young-beautiful-girl-bright-dress-holding-different-shopping-bags-isolated-white-background_224078-4184.jpg": "/Teamwork/static/media/young-beautiful-girl-bright-dress-holding-different-shopping-bags-isolated-white-background_224078-4184.4752e8e3b9c71ff58b9e.jpg",
+    "static/media/product5.jpg": "/Teamwork/static/media/product5.6c34a1bf9836fb7337ce.jpg",
+    "static/media/shopaholic-woman-with-colorful-bags-white_79295-19903.png": "/Teamwork/static/media/shopaholic-woman-with-colorful-bags-white_79295-19903.2f2afbd5270f61837c6c.png",
+    "static/media/istockphoto-1303509809-612x612.jpg": "/Teamwork/static/media/istockphoto-1303509809-612x612.1c5216956816cd26b754.jpg",
+    "index.html": "/Teamwork/index.html",
+    "main.a2725dd0.css.map": "/Teamwork/static/css/main.a2725dd0.css.map",
+    "main.9c9cff75.js.map": "/Teamwork/static/js/main.9c9cff75.js.map",
+    "453.ae2a60de.chunk.js.map": "/Teamwork/static/js/453.ae2a60de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2725dd0.css",
-    "static/js/main.3249f92a.js"
+    "static/js/main.9c9cff75.js"
   ]
 }
